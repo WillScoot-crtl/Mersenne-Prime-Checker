@@ -38,7 +38,6 @@ def check_mersenne(number):
         
 
 def main():
-    for i in range(10):
         user_number = int(input("Enter a number: "))
     
 
